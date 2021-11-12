@@ -1,14 +1,19 @@
-# sasalinero-sasalinero_Readmi
+
 <h1 align="center">Hola 👋, Soy Samantha</h1>
 <h3 align="center">Desarrolladora Frontend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasalinero&label=Profile%20views&color=0e75b6&style=flat" alt="sasalinero" /> </p>
 
-- 🔭 Ahora estoy trabajando en el proyecto **"Maquina Tragaperras"**
+- 📚 Acabo de terminar mis estudios de Desarrolladora Frontend en ADALAB.![image](https://user-images.githubusercontent.com/87009063/141388738-6fbb7fea-1b02-4532-b68e-3b3320e63ca3.png)
+
+
+- 🔭 Ahora estoy trabajando en el proyecto **"Maquina Tragaperras"** y **"Busqueda de peliculas"**
 
 - 🌱 Además estoy estudiando **FP de Desarrollo Web**
 
-- 📫Cómo encontrarme **sasalinero@gmail.com**
+- 📫Cómo encontrarme: **sasalinero@gmail.com** 🎯 https://www.linkedin.com/in/samantha-salinero/
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
