@@ -7,9 +7,9 @@
 - 📚 Acabo de terminar mis estudios de Desarrolladora Frontend en ADALAB.![image](https://user-images.githubusercontent.com/87009063/141388738-6fbb7fea-1b02-4532-b68e-3b3320e63ca3.png)
 
 
-- 🔭 Ahora estoy trabajando en el proyecto **"Maquina Tragaperras"** y **"Busqueda de peliculas"**
+- 🔭 Mis últimos proyectos han sido:  **"Maquina Tragaperras"** y **"Juego de Mandalorian"**, corre ve a verlos!!
 
-- 🌱 Además estoy estudiando **FP de Desarrollo Web**
+- 🌱 Además estoy acabando mis estudios **FP de Desarrollo Web**
 
 - 📫Cómo encontrarme: **sasalinero@gmail.com** 🎯 https://www.linkedin.com/in/samantha-salinero/
 
