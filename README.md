@@ -1,6 +1,6 @@
 
 
-<h1 align="center">:rainbow:¡Hola soy Samantha!:rainbow:</h1> <p align="center"><img  src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif" alt="gif"  width="250px"/></p>
+<h1 align="center">:tea:¡Hola soy Samantha!:tea:</h1> <p align="center"><img  src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif" alt="gif"  width="250px"/></p>
 
 <h2 align="center">Junior Frontend</h2>
 
