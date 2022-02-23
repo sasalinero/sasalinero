@@ -1,6 +1,6 @@
-<p align="center"><img  src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif" alt="gif" /></p>
 
-<h1 align="center">¡Hola soy Samantha!</h1> 
+
+<h1 align="center">¡Hola soy Samantha!</h1> <p align="center"><img  src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif" alt="gif"  width="250px"/></p>
 
 <h2 align="center">Junior Frontend</h2>
 
