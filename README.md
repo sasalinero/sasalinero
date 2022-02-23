@@ -9,11 +9,13 @@
   Además tengo conocimientos básicos en **Node JS, Express,SQL,y APIs.** Estos conocimientos los he obtenido en el Bootcamp de Adalab el cual terminé recientemente.
   
   Y ahora en 2022 acabaré mis estudios :books:**FP de Desarrollo Web** Donde estoy ampliando mis conocimientos con **C#, Java, PHP**
+  
+  Estoy trabajando  :construction: ahora en :green_book: [Agenda de Contactos](https://sasalinero.github.io/AGENDA_CONTACTOS_REACT/) :green_book: 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasalinero&label=Profile%20views&color=0e75b6&style=flat" alt="sasalinero" /> </p>
 
 
-<h3 align="left">🌱 Estos son mis últimos proyectos🌱 </h3>
+<h3 align="left">🌱 Estos son mis últimos proyectos finalizados🌱 </h3>
 
 
 
