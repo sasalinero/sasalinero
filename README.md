@@ -10,7 +10,7 @@
   
   Y ahora en 2022 acabaré mis estudios :books:**FP de Desarrollo Web** Donde estoy ampliando mis conocimientos con **C#, Java, PHP**
   
-  Estoy trabajando  :construction: ahora en :green_book: [Agenda de Contactos](https://sasalinero.github.io/AGENDA_CONTACTOS_REACT/) :green_book: 
+  Estoy trabajando  :construction: ahora en :bar_chart:**MY_TRELLO_LIST**:bar_chart:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasalinero&label=Profile%20views&color=0e75b6&style=flat" alt="sasalinero" /> </p>
 
@@ -26,6 +26,8 @@
 - :hearts: [Portfolio](https://sasalinero.github.io/PortfolioSamantha/)
 
 - :space_invader: [Ricky and Morty](https://sasalinero.github.io/Ricky-and-Morty-en-REACT/#/)
+
+- :green_book:  [Agenda de Contactos](https://sasalinero.github.io/AGENDA_CONTACTOS_REACT/)  
 
 
 ### ⚡️ &nbsp;Tecnologías
