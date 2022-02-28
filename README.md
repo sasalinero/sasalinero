@@ -10,7 +10,7 @@
   
   Y ahora en 2022 acabaré mis estudios :books:**FP de Desarrollo Web** Donde estoy ampliando mis conocimientos con **C#, Java, PHP**
   
-  Estoy trabajando  :construction: ahora en :bar_chart:**MY_TRELLO_LIST**:bar_chart:
+  Estoy trabajando :construction: :construction: ahora en :bar_chart:**MY_TRELLO_LIST**:bar_chart: &  **:exclamation: Práctica_MATERIAL-UI:exclamation:**  :construction::construction:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasalinero&label=Profile%20views&color=0e75b6&style=flat" alt="sasalinero" /> </p>
 
