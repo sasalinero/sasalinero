@@ -10,7 +10,8 @@
   
   Y ahora en 2022 acabaré mis estudios :books:**FP de Desarrollo Web** Donde estoy ampliando mis conocimientos con **C#, Java, PHP**
   
-  Estoy trabajando :construction: :construction: ahora en :bar_chart:**MY_TRELLO_LIST**:bar_chart: &  **:exclamation: Práctica_MATERIAL-UI:exclamation:**  :construction::construction:
+  Ahora estoy trabajando :construction: :construction: :bar_chart:**MY_TRELLO_LIST**:bar_chart: :construction::construction: donde estoy implementando ![MUI](https://img.shields.io/badge/-MUI-black?style=flat&logo=MUI)&nbsp;
+![REACT CONTEXT API](https://img.shields.io/badge/-REACT%20CONTEXT%20API-black?style=flat&logo=REACT) &nbsp;
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasalinero&label=Profile%20views&color=0e75b6&style=flat" alt="sasalinero" /> </p>
 
@@ -18,6 +19,7 @@
 <h3 align="left">🌱 Estos son mis últimos proyectos finalizados🌱 </h3>
 
 
+- :collision: [Practica_MUI_CONTEXT_API](https://sasalinero.github.io/Practica_Material_UI/)
 
 - :snail: [¡Cuidado con Grogu!](https://sasalinero.github.io/Juego-Mandalorian/)   
 
