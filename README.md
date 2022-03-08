@@ -4,12 +4,17 @@
 
 <h2 align="center">Junior Frontend</h2>
 
- Especializada en tecnologías como: **HTML, CSS3, Javascript, y React.** 
- 
-  Además tengo conocimientos básicos en **Node JS, Express,SQL,y APIs.** Estos conocimientos los he obtenido en el Bootcamp de Adalab el cual terminé recientemente.
-  
-  Y ahora en 2022 acabaré mis estudios :books:**FP de Desarrollo Web** Donde estoy ampliando mis conocimientos con **C#, Java, PHP**
-  
+Terminé hace unos meses mis estudios de Frontend en el Bootcamp de Adalab (**HTML, CSS3, Javascript, y React.,Node JS, Express,SQL,y APIs.**)
+
+En estos últimos meses he estado centrada en mis estudios :books: **Online FP de Desarrollo Web** donde estoy ampliando mis conocimientos con **C#, Java, PHP**los cuales estudio los fines de semana donde estoy ampliando mis conocimientos y habré acabado mis últimas tres asignaturas en Junio 2022.
+
+Además por mi cuenta he seguido formándome en **MUI, React Context API, React Hooks, Redux...**
+
+Y desde hace unas semanas estoy en búsqueda activa de mi primer empleo IT. 
+
+Un saludo!!
+
+   
   Ahora estoy trabajando :construction: :construction: :bar_chart:**MY_TRELLO_LIST**:bar_chart: :construction::construction: donde estoy implementando ![MUI](https://img.shields.io/badge/-MUI-black?style=flat&logo=MUI)&nbsp;
 ![REACT CONTEXT API](https://img.shields.io/badge/-REACT%20CONTEXT%20API-black?style=flat&logo=REACT) &nbsp;
 
@@ -38,6 +43,8 @@
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=plastic&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white)
+![MUI](https://img.shields.io/badge/-MUI-black?style=flat&logo=MUI)
+![REACT CONTEXT API](https://img.shields.io/badge/-REACT%20CONTEXT%20API-black?style=flat&logo=REACT)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)
